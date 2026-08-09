@@ -157,10 +157,8 @@ Currently **0 years of professional experience** — actively seeking my first r
 
 | Achievement | Detail |
 |---|---|
-| 🎓 MCA CGPA | 8.3 / 10 — Government Engineering College, Thrissur |
 | 📜 Certification | NPTEL Cloud Computing — IIT Kharagpur |
-| 🌾 Full-Stack AI Project | Built an AI-driven agriculture marketplace with CNN pest detection |
-| 🌫️ Research Project | Comparative CV study (CLAHE vs. AOD-Net) using YOLOv5 |
+| Rajyapuraskar | Bharath Scout and Guides |
 
 </div>
 
@@ -171,7 +169,7 @@ Currently **0 years of professional experience** — actively seeking my first r
 <div align="center">
 
 [![MCA](https://img.shields.io/badge/MCA-Government_Engineering_College,_Thrissur-FFB000?style=for-the-badge&labelColor=0D1117)](#)
-[![BCA](https://img.shields.io/badge/BCA-KBSK_Government_College,_Thalassery-FFB000?style=for-the-badge&labelColor=0D1117)](#)
+[![BCA](https://img.shields.io/badge/BCA-KBS_Government_College,_Thalassery-FFB000?style=for-the-badge&labelColor=0D1117)](#)
 
 </div>
 
