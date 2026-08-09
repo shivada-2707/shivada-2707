@@ -55,14 +55,44 @@ OPEN_TO  = "Software Engineering, AI/ML Engineering, Backend Development"
 
 <div align="center">
 
-| Category | Items |
-|---|---|
-| 🤖 **AI / Machine Learning** | LLM API Integration (LLaMA3), Prompt Engineering, NLP, Computer Vision, CNN, Model Evaluation, PyTorch, OpenCV |
-| 💬 **Languages** | Python, SQL, HTML |
-| 🔌 **Backend & APIs** | FastAPI, REST APIs, JSON, CrossRef API |
-| 🗄️ **Data & Databases** | MySQL, DBMS |
-| 🧩 **CS Fundamentals** | Data Structures, OOPs, DBMS |
-| 🛠️ **Tools** | Git |
+**🤖 AI / MACHINE LEARNING**
+
+![](https://img.shields.io/badge/LLM_INTEGRATION_(LLAMA3)-0F380F?style=for-the-badge&labelColor=9BBC0F)
+![](https://img.shields.io/badge/PROMPT_ENGINEERING-0F380F?style=for-the-badge&labelColor=9BBC0F)
+![](https://img.shields.io/badge/NLP-0F380F?style=for-the-badge&labelColor=9BBC0F)
+![](https://img.shields.io/badge/COMPUTER_VISION-0F380F?style=for-the-badge&labelColor=9BBC0F)
+![](https://img.shields.io/badge/CNN-0F380F?style=for-the-badge&labelColor=9BBC0F)
+![](https://img.shields.io/badge/MODEL_EVALUATION-0F380F?style=for-the-badge&labelColor=9BBC0F)
+![](https://img.shields.io/badge/PYTORCH-0F380F?style=for-the-badge&labelColor=9BBC0F)
+![](https://img.shields.io/badge/OPENCV-0F380F?style=for-the-badge&labelColor=9BBC0F)
+
+**💬 LANGUAGES**
+
+![](https://img.shields.io/badge/PYTHON-0F380F?style=for-the-badge&labelColor=9BBC0F)
+![](https://img.shields.io/badge/SQL-0F380F?style=for-the-badge&labelColor=9BBC0F)
+![](https://img.shields.io/badge/HTML-0F380F?style=for-the-badge&labelColor=9BBC0F)
+
+**🔌 BACKEND & APIs**
+
+![](https://img.shields.io/badge/FASTAPI-0F380F?style=for-the-badge&labelColor=9BBC0F)
+![](https://img.shields.io/badge/REST_APIs-0F380F?style=for-the-badge&labelColor=9BBC0F)
+![](https://img.shields.io/badge/JSON-0F380F?style=for-the-badge&labelColor=9BBC0F)
+![](https://img.shields.io/badge/CROSSREF_API-0F380F?style=for-the-badge&labelColor=9BBC0F)
+
+**🗄️ DATA & DATABASES**
+
+![](https://img.shields.io/badge/MYSQL-0F380F?style=for-the-badge&labelColor=9BBC0F)
+![](https://img.shields.io/badge/DBMS-0F380F?style=for-the-badge&labelColor=9BBC0F)
+
+**🧩 CS FUNDAMENTALS**
+
+![](https://img.shields.io/badge/DATA_STRUCTURES-0F380F?style=for-the-badge&labelColor=9BBC0F)
+![](https://img.shields.io/badge/OOPs-0F380F?style=for-the-badge&labelColor=9BBC0F)
+![](https://img.shields.io/badge/DBMS-0F380F?style=for-the-badge&labelColor=9BBC0F)
+
+**🛠️ TOOLS**
+
+![](https://img.shields.io/badge/GIT-0F380F?style=for-the-badge&labelColor=9BBC0F)
 
 </div>
 ---
