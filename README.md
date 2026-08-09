@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9BBC0F,100:9BBC0F&height=200&section=header&text=Shivada%20Manoj%20P&fontColor=0F380F&fontSize=44&fontAlignY=40&desc=Python%20%7C%20AI%2FML%20%7C%20Backend%20Development&descAlignY=62&descSize=16&descColor=306230&animation=twinkle" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFF6F9,100:FFF6F9&height=200&section=header&text=Shivada%20Manoj%20P&fontColor=C77DA0&fontSize=44&fontAlignY=40&desc=Python%20%7C%20AI%2FML%20%7C%20Backend%20Development&descAlignY=62&descSize=16&descColor=A89BA6&animation=twinkle" width="100%"/>
 
 </div>
 
@@ -8,30 +8,30 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3500&pause=900&color=0F380F&background=9BBC0F&center=true&vCenter=true&width=650&height=90&lines=CS+ENGINEER+%7C+MCA+GRAD;PYTHON+%2B+AI%2FML+%2B+BACKEND;LEVEL+UP%3A+DJANGO+FASTAPI+PYTORCH;LEARNING%3A+PROMPT+ENGINEERING;OPEN+TO%3A+INTERNSHIPS+%2B+JOBS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3500&pause=900&color=C77DA0&background=FFF6F9&center=true&vCenter=true&width=650&height=90&lines=CS+ENGINEER+%7C+MCA+GRAD;PYTHON+%2B+AI%2FML+%2B+BACKEND;LEVEL+UP%3A+DJANGO+FASTAPI+PYTORCH;LEARNING%3A+PROMPT+ENGINEERING;OPEN+TO%3A+INTERNSHIPS+%2B+JOBS" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-![Degree](https://img.shields.io/badge/DEGREE-MCA-0F380F?style=flat-square&labelColor=9BBC0F)
-![University](https://img.shields.io/badge/UNIVERSITY-GEC_THRISSUR-0F380F?style=flat-square&labelColor=9BBC0F)
-![Location](https://img.shields.io/badge/LOCATION-KERALA_INDIA-0F380F?style=flat-square&labelColor=9BBC0F)
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0F380F?style=for-the-badge&logo=linkedin&logoColor=9BBC0F)](https://www.linkedin.com/in/shivada-manoj-p-082274339/)
-[![Email](https://img.shields.io/badge/EMAIL-0F380F?style=for-the-badge&logo=gmail&logoColor=9BBC0F)](mailto:shivadamanoj0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-0F380F?style=for-the-badge&logo=github&logoColor=9BBC0F)](https://github.com/shivada-2707)
+![Degree](https://img.shields.io/badge/DEGREE-MCA-C77DA0?style=flat-square&labelColor=FFF6F9)
+![University](https://img.shields.io/badge/UNIVERSITY-GEC_THRISSUR-C77DA0?style=flat-square&labelColor=FFF6F9)
+![Location](https://img.shields.io/badge/LOCATION-KERALA_INDIA-C77DA0?style=flat-square&labelColor=FFF6F9)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=shivada-2707&color=0F380F&style=flat-square&label=VIEWS)
-![Followers](https://img.shields.io/github/followers/shivada-2707?color=0F380F&style=flat-square&labelColor=9BBC0F&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/shivada-2707?color=0F380F&style=flat-square&labelColor=9BBC0F&label=STARS)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-C77DA0?style=for-the-badge&logo=linkedin&logoColor=FFF6F9)](https://www.linkedin.com/in/shivada-manoj-p-082274339/)
+[![Email](https://img.shields.io/badge/EMAIL-C77DA0?style=for-the-badge&logo=gmail&logoColor=FFF6F9)](mailto:shivadamanoj0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-C77DA0?style=for-the-badge&logo=github&logoColor=FFF6F9)](https://github.com/shivada-2707)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=shivada-2707&color=C77DA0&style=flat-square&label=VIEWS)
+![Followers](https://img.shields.io/github/followers/shivada-2707?color=C77DA0&style=flat-square&labelColor=FFF6F9&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/shivada-2707?color=C77DA0&style=flat-square&labelColor=FFF6F9&label=STARS)
 
 </div>
 
@@ -72,11 +72,11 @@ OPEN_TO  = "Software Engineering, AI/ML Engineering, Backend Development"
 
 <div align="center">
 
-![AI/ML](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-0F380F?style=for-the-badge&labelColor=9BBC0F)
-![NLP](https://img.shields.io/badge/NLP_%26_LLM-0F380F?style=for-the-badge&labelColor=9BBC0F)
-![CV](https://img.shields.io/badge/COMPUTER_VISION-0F380F?style=for-the-badge&labelColor=9BBC0F)
-![Backend](https://img.shields.io/badge/BACKEND_DEV-0F380F?style=for-the-badge&labelColor=9BBC0F)
-![Python](https://img.shields.io/badge/PYTHON_DEV-0F380F?style=for-the-badge&labelColor=9BBC0F)
+![AI/ML](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-C77DA0?style=for-the-badge&labelColor=FFF6F9)
+![NLP](https://img.shields.io/badge/NLP_%26_LLM-C77DA0?style=for-the-badge&labelColor=FFF6F9)
+![CV](https://img.shields.io/badge/COMPUTER_VISION-C77DA0?style=for-the-badge&labelColor=FFF6F9)
+![Backend](https://img.shields.io/badge/BACKEND_DEV-C77DA0?style=for-the-badge&labelColor=FFF6F9)
+![Python](https://img.shields.io/badge/PYTHON_DEV-C77DA0?style=for-the-badge&labelColor=FFF6F9)
 
 </div>
 
@@ -170,8 +170,8 @@ Currently **0 years of professional experience** — actively seeking my first r
 
 <div align="center">
 
-[![MCA](https://img.shields.io/badge/MCA-GEC_THRISSUR-0F380F?style=for-the-badge&labelColor=9BBC0F)](#)
-[![BCA](https://img.shields.io/badge/BCA-KBSK_GOVT_COLLEGE-0F380F?style=for-the-badge&labelColor=9BBC0F)](#)
+[![MCA](https://img.shields.io/badge/MCA-GEC_THRISSUR-C77DA0?style=for-the-badge&labelColor=FFF6F9)](#)
+[![BCA](https://img.shields.io/badge/BCA-KBSK_GOVT_COLLEGE-C77DA0?style=for-the-badge&labelColor=FFF6F9)](#)
 
 </div>
 
@@ -181,10 +181,10 @@ Currently **0 years of professional experience** — actively seeking my first r
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivada-2707&show_icons=true&bg_color=9BBC0F&title_color=0F380F&text_color=306230&icon_color=0F380F&border_color=0F380F&hide_border=false" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shivada-2707&background=9BBC0F&border=0F380F&stroke=0F380F&ring=0F380F&fire=0F380F&currStreakLabel=0F380F&sideLabels=306230&currStreakNum=306230&sideNums=306230&dates=306230&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivada-2707&show_icons=true&bg_color=FFF6F9&title_color=C77DA0&text_color=5C4B5A&icon_color=C77DA0&border_color=C77DA0&hide_border=false" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shivada-2707&background=FFF6F9&border=C77DA0&stroke=C77DA0&ring=C77DA0&fire=C77DA0&currStreakLabel=C77DA0&sideLabels=5C4B5A&currStreakNum=5C4B5A&sideNums=5C4B5A&dates=A89BA6&hide_border=false" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivada-2707&layout=compact&bg_color=9BBC0F&title_color=0F380F&text_color=306230&border_color=0F380F&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivada-2707&layout=compact&bg_color=FFF6F9&title_color=C77DA0&text_color=5C4B5A&border_color=C77DA0&hide_border=false" />
 
 </div>
 
@@ -204,7 +204,7 @@ Currently **0 years of professional experience** — actively seeking my first r
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivada-2707&bg_color=9BBC0F&color=0F380F&line=0F380F&point=306230&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivada-2707&bg_color=FFF6F9&color=C77DA0&line=C77DA0&point=5C4B5A&area=true&hide_border=true" />
 
 </div>
 
@@ -249,12 +249,12 @@ open_to: "Internships, Entry-Level Software/AI-ML Roles"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0F380F?style=for-the-badge&logo=linkedin&logoColor=9BBC0F)](https://www.linkedin.com/in/shivada-manoj-p-082274339/)
-[![Email](https://img.shields.io/badge/EMAIL-0F380F?style=for-the-badge&logo=gmail&logoColor=9BBC0F)](mailto:shivadamanoj0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-0F380F?style=for-the-badge&logo=github&logoColor=9BBC0F)](https://github.com/shivada-2707)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-C77DA0?style=for-the-badge&logo=linkedin&logoColor=FFF6F9)](https://www.linkedin.com/in/shivada-manoj-p-082274339/)
+[![Email](https://img.shields.io/badge/EMAIL-C77DA0?style=for-the-badge&logo=gmail&logoColor=FFF6F9)](mailto:shivadamanoj0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-C77DA0?style=for-the-badge&logo=github&logoColor=FFF6F9)](https://github.com/shivada-2707)
 
 *"Building practical solutions at the intersection of Python and AI."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9BBC0F,100:9BBC0F&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF6F9,100:FFF6F9&height=100&section=footer" width="100%"/>
 
 </div>
