@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <!-- ==================== ABOUT ME =========================== -->
 <!-- ========================================================= -->
 
-## `> whoami`
+## `> who am i`
 
 I am a **Computer Science Engineer and MCA graduate** with a strong interest in **Python, Artificial Intelligence, Machine Learning, and backend development**.
 
