@@ -198,8 +198,8 @@ Currently **0 years of professional experience** — actively seeking my first r
 
 <div align="center">
 
-[![MCA](https://img.shields.io/badge/MCA-GEC_THRISSUR-C77DA0?style=for-the-badge&labelColor=FFF6F9)](#)
-[![BCA](https://img.shields.io/badge/BCA-KBSK_GOVT_COLLEGE-C77DA0?style=for-the-badge&labelColor=FFF6F9)](#)
+[![MCA](https://img.shields.io/badge/MCA-GOVERNMENT ENGINEERING COLLLEGE_THRISSUR-C77DA0?style=for-the-badge&labelColor=FFF6F9)](#)
+[![BCA](https://img.shields.io/badge/BCA-KBS_GOVERNMENT_COLLEGE-C77DA0?style=for-the-badge&labelColor=FFF6F9)](#)
 
 </div>
 
