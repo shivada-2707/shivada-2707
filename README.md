@@ -5,18 +5,10 @@
 </div>
 
 <div align="center">
-
-```
-$ whoami --role "CS Engineer | MCA Graduate"
-$ stack --core Python FastAPI PyTorch OpenCV YOLOv5 LLaMA3
-$ focus --domain "AI x Real-World Applications"
-$ status --open-to "Internships, Entry-Level Roles"
-```
-
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FFB000&background=0D1117&center=true&vCenter=true&width=650&lines=CS+Engineer+%7C+MCA+Graduate;Python+%2B+AI%2FML+%2B+Backend+Development;Building+with+FastAPI%2C+PyTorch%2C+LLaMA3;Currently+learning%3A+Prompt+Engineering;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FFB000&background=0D1117&center=true&vCenter=true&width=650&lines=CS+Engineer+%7C+MCA+Graduate;Python+%2B+AI%2FML+%2B+Backend+Development;Building+with+Django%2C+FastAPI%2C+PyTorch%2C+LLaMA3;Currently+learning%3A+Prompt+Engineering;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -47,13 +39,13 @@ $ status --open-to "Internships, Entry-Level Roles"
 
 ### `$ cat about.md`
 
-I'm a Computer Science Engineer and MCA graduate with a strong interest in Python, Artificial Intelligence, and Machine Learning. I enjoy building practical software solutions and exploring how AI can be integrated into real-world applications — from NLP-powered writing tools to computer vision systems.
+I'm a Computer Science Engineer and MCA graduate with a strong interest in Python, Artificial Intelligence, and Machine Learning. I enjoy building practical software solutions and exploring how AI can be integrated into real-world applications — from academic writing assistants to computer vision systems and AI-driven marketplaces.
 
 ```bash
 ROLE     = "Software / AI-ML Engineer (Fresher)"
 EXP      = "0 years — Open to Internships & Entry-Level Roles"
 DOMAIN   = "Python | Artificial Intelligence | Machine Learning"
-STACK    = "Python, FastAPI, PyTorch, OpenCV, MySQL, HTML/CSS"
+STACK    = "Python, Django, FastAPI, PyTorch, YOLOv5, MySQL, Flask"
 OPEN_TO  = "Software Engineering, AI/ML Engineering, Backend Development"
 ```
 
@@ -64,13 +56,13 @@ OPEN_TO  = "Software Engineering, AI/ML Engineering, Backend Development"
 <div align="center">
 
 **Languages & Web**
-<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap&theme=dark" />
 
-**AI / ML & Frameworks**
-<img src="https://skillicons.dev/icons?i=fastapi,pytorch,threejs&theme=dark" />
+**Backend & AI/ML**
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,pytorch&theme=dark" />
 
 **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,androidstudio,git,github&theme=dark" />
 
 </div>
 
@@ -96,12 +88,12 @@ OPEN_TO  = "Software Engineering, AI/ML Engineering, Backend Development"
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Python Development | ●●●●○ | Core language for backend, scripting, and AI projects |
-| Machine Learning | ●●●●○ | PyTorch-based model training, object detection (YOLOv5) |
-| NLP / LLM Integration | ●●●○○ | LLaMA3-powered text processing, Chrome extension AI features |
-| Computer Vision | ●●●●○ | OpenCV, YOLOv5 for object detection in adverse conditions |
-| Backend / API Development | ●●●●○ | FastAPI-based REST services |
-| Full-Stack Development | ●●●○○ | Web + Android platforms, MySQL integration |
+| Python Development | ●●●●○ | Core language across web, ML, and automation projects |
+| Machine Learning | ●●●●○ | CNN-based image classification, PyTorch model training |
+| Computer Vision | ●●●●○ | YOLOv5 object detection, CLAHE / AOD-Net image enhancement |
+| NLP / LLM Integration | ●●●○○ | LLaMA 3, Hugging Face Transformers, NLLB translation |
+| Backend / API Development | ●●●●○ | Django, FastAPI, Flask — REST API design |
+| Full-Stack + Mobile | ●●●○○ | Web + Android platforms, MySQL integration |
 
 </div>
 
@@ -110,50 +102,44 @@ OPEN_TO  = "Software Engineering, AI/ML Engineering, Backend Development"
 ### `$ ./featured-projects --list`
 
 <details open>
-<summary><b>📝 LaTeX WriteSense AI</b> — MCA Major Project</summary>
+<summary><b>🌾 AI-Powered Organic Marketplace with Pest Detection & Crop Demand Forecasting</b> — KBM Govt. College, Thalassery</summary>
 <br>
 
-AI-assisted LaTeX writing tool combining a Chrome extension frontend with a FastAPI backend, using LLaMA3 and NLP techniques to provide intelligent writing assistance.
+Full-stack agriculture e-commerce platform connecting farmers directly with customers, eliminating intermediaries while integrating AI-powered decision support for smarter farming and personalized shopping. Farmers manage products, predict crop pests using a CNN, forecast seasonal demand, and receive crop recommendations. Customers browse products, get personalized recommendations, and track deliveries via an Android app.
+
+**Key Features:** Direct farmer-to-customer marketplace • CNN-based pest detection • Seasonal demand forecasting • Personalized recommendations • Cart & secure order processing • Delivery tracking • Farmer / customer / admin / delivery-agent dashboards
 
 | Stack | Scale | Impact |
 |---|---|---|
-| Chrome Extension, FastAPI, LLaMA3, NLP | Full-stack AI application | Core differentiator project; demonstrates end-to-end LLM integration into a real user workflow |
+| Python, Django, MySQL, HTML, CSS, JS, Bootstrap, Android Studio, Java, CNN, ML, REST API | Full-stack platform with 4 user roles + Android app | Intelligent digital marketplace supporting organic farming, improving farmer profitability, and enhancing customer experience through AI-driven predictions |
 
 </details>
 
 <details>
-<summary><b>🌫️ YOLOv5 Object Detection in Foggy Scenes</b> — MCA Mini Project</summary>
+<summary><b>🌫️ Comparative Analysis of CLAHE & AOD-Net using YOLOv5</b> — Government Engineering College, Thrissur</summary>
 <br>
 
-Object detection system built to identify objects accurately under low-visibility, foggy conditions using YOLOv5.
+Computer vision application improving object detection accuracy in foggy, low-visibility environments. Compares a traditional image enhancement technique (CLAHE) against the deep learning-based AOD-Net before running YOLOv5 object detection, with an end-to-end pipeline for preprocessing, detection, evaluation, and visualization.
+
+**Key Features:** CLAHE & AOD-Net preprocessing • Real-time YOLOv5 detection • Performance comparison via object count & confidence score • Interactive Flask dashboard • Evaluated on the RESIDE RTTS dataset
 
 | Stack | Scale | Impact |
 |---|---|---|
-| PyTorch, OpenCV, YOLOv5 | Computer vision research project | Applied deep learning to a real-world visibility challenge in object detection |
+| Python, PyTorch, YOLOv5, OpenCV, NumPy, Flask, Matplotlib | Computer vision research pipeline | AOD-Net significantly outperformed CLAHE, producing higher object counts and confidence scores in foggy scenes |
 
 </details>
 
 <details>
-<summary><b>🌱 Fresh Home</b> — BCA Final Project</summary>
+<summary><b>📝 WriteSense AI — AI-Powered Academic Writing Assistant for LaTeX</b> — Government Engineering College, Thrissur</summary>
 <br>
 
-Full-stack farming platform (web + Android) featuring CNN-based pest detection to help farmers identify crop threats early.
+AI-powered Chrome Extension integrating directly with Overleaf to help researchers and students improve academic writing without leaving the LaTeX environment. Modular client-server architecture: the extension talks to independent FastAPI microservices for grammar correction, readability analysis, summarization, multilingual translation, and paper recommendations — all while preserving LaTeX commands, citations, and equations.
+
+**Key Features:** AI grammar correction (LLaMA + LanguageTool) • Readability & structural clarity analysis • Transformer-based summarization • Multilingual translation (NLLB) • Paper recommendations via CrossRef API • LaTeX-aware processing • User-controlled suggestions, no auto-edits
 
 | Stack | Scale | Impact |
 |---|---|---|
-| Web, Android, CNN, MySQL | Full-stack platform across two client types | End-to-end product spanning frontend, backend, mobile, and applied ML |
-
-</details>
-
-<details>
-<summary><b>✨ Zivva</b> — Personal Project</summary>
-<br>
-
-Kawaii-themed productivity web app with habit tracking, tasks, a focus timer, and an XP/leveling + achievements system.
-
-| Stack | Scale | Impact |
-|---|---|---|
-| Web (deployed on Netlify) | Personal productivity SaaS-style app | Shipped and deployed end-to-end, from design to production |
+| Python, FastAPI, JavaScript, Chrome Extension (Manifest V3), LLaMA 3, Hugging Face Transformers, NLLB-200, LanguageTool, CrossRef API | Modular multi-microservice backend + browser extension | Intelligent writing assistant reducing context-switching for researchers while preserving full document control and LaTeX formatting |
 
 </details>
 
@@ -173,8 +159,8 @@ Currently **0 years of professional experience** — actively seeking my first r
 |---|---|
 | 🎓 MCA CGPA | 8.3 / 10 — Government Engineering College, Thrissur |
 | 📜 Certification | NPTEL Cloud Computing — IIT Kharagpur |
-| 🚀 Shipped Project | Zivva — deployed live on Netlify |
-| 🛠️ 3D Build | Interactive drivable 3D portfolio using Three.js |
+| 🌾 Full-Stack AI Project | Built an AI-driven agriculture marketplace with CNN pest detection |
+| 🌫️ Research Project | Comparative CV study (CLAHE vs. AOD-Net) using YOLOv5 |
 
 </div>
 
@@ -252,8 +238,8 @@ Currently **0 years of professional experience** — actively seeking my first r
 
 ```yaml
 learning: "Prompt Engineering"
-building: "Personal Python & AI/ML projects"
-exploring: "Integrating LLMs into real-world applications"
+building: "AI/ML and full-stack Python projects"
+exploring: "Integrating LLMs and CV models into real-world applications"
 open_to: "Internships, Entry-Level Software/AI-ML Roles"
 ```
 
