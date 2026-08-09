@@ -218,16 +218,6 @@ Currently **0 years of professional experience** — actively seeking my first r
 
 ---
 
-### 🏆 `./trophy_case --columns 7`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivada-2707&theme=flat&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
 ### 📈 `./activity_grid --render`
 
 <div align="center">
