@@ -13,9 +13,9 @@
 
 <div align="center">
 
-![Degree](https://img.shields.io/badge/DEGREE-MCA-C77DA0?style=flat-square&labelColor=FFF6F9)
-![University](https://img.shields.io/badge/UNIVERSITY-GEC_THRISSUR-C77DA0?style=flat-square&labelColor=FFF6F9)
-![Location](https://img.shields.io/badge/LOCATION-KERALA_INDIA-C77DA0?style=flat-square&labelColor=FFF6F9)
+![Degree](https://img.shields.io/badge/MCA-C77DA0?style=flat-square&labelColor=FFF6F9)
+![University](https://img.shields.io/badge/GEC_THRISSUR-C77DA0?style=flat-square&labelColor=FFF6F9)
+![Location](https://img.shields.io/badge/-KERALA_INDIA-C77DA0?style=flat-square&labelColor=FFF6F9)
 
 </div>
 
