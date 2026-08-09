@@ -186,8 +186,8 @@ Currently **0 years of professional experience** — actively seeking my first r
 
 | Achievement | Detail |
 |---|---|
-| 🎓 MCA CGPA | 8.3 / 10 — Government Engineering College, Thrissur |
 | 📜 Certification | NPTEL Cloud Computing — IIT Kharagpur |
+| RAJYAPURASKAR | BHARATH SCOUT & GUIDES |
 
 
 </div>
