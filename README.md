@@ -55,17 +55,16 @@ OPEN_TO  = "Software Engineering, AI/ML Engineering, Backend Development"
 
 <div align="center">
 
-**LANGUAGES & WEB**
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap&theme=light" />
-
-**BACKEND & AI/ML**
-<img src="https://skillicons.dev/icons?i=django,fastapi,flask,pytorch&theme=light" />
-
-**TOOLS & PLATFORMS**
-<img src="https://skillicons.dev/icons?i=mysql,androidstudio,git,github&theme=light" />
+| Category | Items |
+|---|---|
+| 🤖 **AI / Machine Learning** | LLM API Integration (LLaMA3), Prompt Engineering, NLP, Computer Vision, CNN, Model Evaluation, PyTorch, OpenCV |
+| 💬 **Languages** | Python, SQL, HTML |
+| 🔌 **Backend & APIs** | FastAPI, REST APIs, JSON, CrossRef API |
+| 🗄️ **Data & Databases** | MySQL, DBMS |
+| 🧩 **CS Fundamentals** | Data Structures, OOPs, DBMS |
+| 🛠️ **Tools** | Git |
 
 </div>
-
 ---
 
 ### ⚡ `./power_ups.sh`
