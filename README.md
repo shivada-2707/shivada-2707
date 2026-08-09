@@ -188,8 +188,7 @@ Currently **0 years of professional experience** — actively seeking my first r
 |---|---|
 | 🎓 MCA CGPA | 8.3 / 10 — Government Engineering College, Thrissur |
 | 📜 Certification | NPTEL Cloud Computing — IIT Kharagpur |
-| 🌾 Full-Stack AI Project | Built an AI-driven agriculture marketplace with CNN pest detection |
-| 🌫️ Research Project | Comparative CV study (CLAHE vs. AOD-Net) using YOLOv5 |
+
 
 </div>
 
