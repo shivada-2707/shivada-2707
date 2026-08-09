@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=200&section=header&text=Shivada%20Manoj%20P&fontColor=FFB000&fontSize=48&fontAlignY=40&desc=Python%20%7C%20AI%2FML%20%7C%20Backend%20Development&descAlignY=62&descSize=18&descColor=8B949E&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:0D0221&height=200&section=header&text=Shivada%20Manoj%20P&fontColor=00E5FF&fontSize=44&fontAlignY=40&desc=Python%20%7C%20AI%2FML%20%7C%20Backend%20Development&descAlignY=62&descSize=16&descColor=8B949E&animation=twinkle" width="100%"/>
 
 </div>
 
@@ -8,36 +8,36 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FFB000&background=0D1117&center=true&vCenter=true&width=650&lines=CS+Engineer+%7C+MCA+Graduate;Python+%2B+AI%2FML+%2B+Backend+Development;Building+with+Django%2C+FastAPI%2C+PyTorch%2C+LLaMA3;Currently+learning%3A+Prompt+Engineering;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3500&pause=900&color=00E5FF&background=0D0221&center=true&vCenter=true&width=650&height=90&lines=CS+ENGINEER+%7C+MCA+GRAD;PYTHON+%2B+AI%2FML+%2B+BACKEND;LEVEL+UP%3A+DJANGO+FASTAPI+PYTORCH;LEARNING%3A+PROMPT+ENGINEERING;OPEN+TO%3A+INTERNSHIPS+%2B+JOBS" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-![Degree](https://img.shields.io/badge/Degree-MCA-FFB000?style=flat-square&labelColor=0D1117)
-![University](https://img.shields.io/badge/University-Government_Engineering_College_Thrissur-FFB000?style=flat-square&labelColor=0D1117)
-![Location](https://img.shields.io/badge/Location-Kerala,_India-FFB000?style=flat-square&labelColor=0D1117)
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB000?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/shivada-manoj-p-082274339/)
-[![Email](https://img.shields.io/badge/Email-FFB000?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:shivadamanoj0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FFB000?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/shivada-2707)
+![Degree](https://img.shields.io/badge/DEGREE-MCA-00E5FF?style=flat-square&labelColor=0D0221)
+![University](https://img.shields.io/badge/UNIVERSITY-GEC_THRISSUR-00E5FF?style=flat-square&labelColor=0D0221)
+![Location](https://img.shields.io/badge/LOCATION-KERALA_INDIA-00E5FF?style=flat-square&labelColor=0D0221)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=shivada-2707&color=FFB000&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/shivada-2707?color=FFB000&style=flat-square&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/shivada-2707?color=FFB000&style=flat-square&labelColor=0D1117)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0D0221)](https://www.linkedin.com/in/shivada-manoj-p-082274339/)
+[![Email](https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=0D0221)](mailto:shivadamanoj0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=0D0221)](https://github.com/shivada-2707)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=shivada-2707&color=00E5FF&style=flat-square&label=VIEWS)
+![Followers](https://img.shields.io/github/followers/shivada-2707?color=00E5FF&style=flat-square&labelColor=0D0221&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/shivada-2707?color=00E5FF&style=flat-square&labelColor=0D0221&label=STARS)
 
 </div>
 
 ---
 
-### `$ cat about.md`
+### 👾 `cat about.md`
 
 I'm a Computer Science Engineer and MCA graduate with a strong interest in Python, Artificial Intelligence, and Machine Learning. I enjoy building practical software solutions and exploring how AI can be integrated into real-world applications — from academic writing assistants to computer vision systems and AI-driven marketplaces.
 
@@ -51,42 +51,42 @@ OPEN_TO  = "Software Engineering, AI/ML Engineering, Backend Development"
 
 ---
 
-### `$ ls tech-stack/`
+### 🕹️ `ls inventory/`
 
 <div align="center">
 
-**Languages & Web**
+**LANGUAGES & WEB**
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap&theme=dark" />
 
-**Backend & AI/ML**
+**BACKEND & AI/ML**
 <img src="https://skillicons.dev/icons?i=django,fastapi,flask,pytorch&theme=dark" />
 
-**Tools & Platforms**
+**TOOLS & PLATFORMS**
 <img src="https://skillicons.dev/icons?i=mysql,androidstudio,git,github&theme=dark" />
 
 </div>
 
 ---
 
-### `$ ./specialties.sh`
+### ⚡ `./power_ups.sh`
 
 <div align="center">
 
-![AI/ML](https://img.shields.io/badge/Artificial_Intelligence-FFB000?style=for-the-badge&labelColor=0D1117)
-![NLP](https://img.shields.io/badge/NLP_%26_LLM_Integration-FFB000?style=for-the-badge&labelColor=0D1117)
-![CV](https://img.shields.io/badge/Computer_Vision-FFB000?style=for-the-badge&labelColor=0D1117)
-![Backend](https://img.shields.io/badge/Backend_Development-FFB000?style=for-the-badge&labelColor=0D1117)
-![Python](https://img.shields.io/badge/Python_Development-FFB000?style=for-the-badge&labelColor=0D1117)
+![AI/ML](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-00E5FF?style=for-the-badge&labelColor=0D0221)
+![NLP](https://img.shields.io/badge/NLP_%26_LLM-00E5FF?style=for-the-badge&labelColor=0D0221)
+![CV](https://img.shields.io/badge/COMPUTER_VISION-00E5FF?style=for-the-badge&labelColor=0D0221)
+![Backend](https://img.shields.io/badge/BACKEND_DEV-00E5FF?style=for-the-badge&labelColor=0D0221)
+![Python](https://img.shields.io/badge/PYTHON_DEV-00E5FF?style=for-the-badge&labelColor=0D0221)
 
 </div>
 
 ---
 
-### `$ cat expertise.table`
+### 💾 `cat skill_tree.dat`
 
 <div align="center">
 
-| Domain | Proficiency | Details |
+| Domain | Level | Details |
 |---|:---:|---|
 | Python Development | ●●●●○ | Core language across web, ML, and automation projects |
 | Machine Learning | ●●●●○ | CNN-based image classification, PyTorch model training |
@@ -99,7 +99,7 @@ OPEN_TO  = "Software Engineering, AI/ML Engineering, Backend Development"
 
 ---
 
-### `$ ./featured-projects --list`
+### 🎮 `./quest_log --completed`
 
 <details open>
 <summary><b>🌾 AI-Powered Organic Marketplace with Pest Detection & Crop Demand Forecasting</b> — KBM Govt. College, Thalassery</summary>
@@ -145,84 +145,86 @@ AI-powered Chrome Extension integrating directly with Overleaf to help researche
 
 ---
 
-### `$ cat status.log`
+### 🕹️ `cat status.log`
 
 Currently **0 years of professional experience** — actively seeking my first role as a Software / AI-ML Engineer. Open to **internships and entry-level opportunities**.
 
 ---
 
-### `$ cat achievements.table`
+### 🏆 `cat high_scores.dat`
 
 <div align="center">
 
 | Achievement | Detail |
 |---|---|
+| 🎓 MCA CGPA | 8.3 / 10 — Government Engineering College, Thrissur |
 | 📜 Certification | NPTEL Cloud Computing — IIT Kharagpur |
-| Rajyapuraskar | Bharath Scout and Guides |
+| 🌾 Full-Stack AI Project | Built an AI-driven agriculture marketplace with CNN pest detection |
+| 🌫️ Research Project | Comparative CV study (CLAHE vs. AOD-Net) using YOLOv5 |
 
 </div>
 
 ---
 
-### `$ ./education --badge`
+### 💾 `./education --badge`
 
 <div align="center">
 
-[![MCA](https://img.shields.io/badge/MCA-Government_Engineering_College,_Thrissur-FFB000?style=for-the-badge&labelColor=0D1117)](#)
-[![BCA](https://img.shields.io/badge/BCA-KBS_Government_College,_Thalassery-FFB000?style=for-the-badge&labelColor=0D1117)](#)
+[![MCA](https://img.shields.io/badge/MCA-GEC_THRISSUR-00E5FF?style=for-the-badge&labelColor=0D0221)](#)
+[![BCA](https://img.shields.io/badge/BCA-KBSK_GOVT_COLLEGE-00E5FF?style=for-the-badge&labelColor=0D0221)](#)
 
 </div>
 
 ---
 
-### `$ ./github-analytics --render`
+### 📊 `./game_stats --render`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivada-2707&show_icons=true&bg_color=0D1117&title_color=FFB000&text_color=F5F5F5&icon_color=FFB000&border_color=FFB000&hide_border=false" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shivada-2707&background=0D1117&border=FFB000&stroke=FFB000&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=8B949E&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivada-2707&show_icons=true&bg_color=0D0221&title_color=00E5FF&text_color=F5F5F5&icon_color=00E5FF&border_color=00E5FF&hide_border=false" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shivada-2707&background=0D0221&border=00E5FF&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=8B949E&hide_border=false" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivada-2707&layout=compact&bg_color=0D1117&title_color=FFB000&text_color=F5F5F5&border_color=FFB000&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivada-2707&layout=compact&bg_color=0D0221&title_color=00E5FF&text_color=F5F5F5&border_color=00E5FF&hide_border=false" />
 
 </div>
 
 ---
 
-### `$ ./trophies --columns 7`
+### 🏆 `./trophy_case --columns 7`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivada-2707&theme=gruvbox&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=shivada-2707&theme=algolia&no-frame=true&row=1&column=7" />
 
 </div>
 
 ---
 
-### `$ ./activity-graph --render`
+### 📈 `./activity_grid --render`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivada-2707&bg_color=0D1117&color=FFB000&line=FFB000&point=F5F5F5&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivada-2707&bg_color=0D0221&color=00E5FF&line=00E5FF&point=F5F5F5&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-### `$ ./summary-cards --full`
+### 💾 `./save_data --full`
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivada-2707&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivada-2707&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivada-2707&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivada-2707&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivada-2707&theme=github_dark&utcOffset=5.5" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivada-2707&theme=cobalt" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivada-2707&theme=cobalt" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivada-2707&theme=cobalt" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivada-2707&theme=cobalt" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivada-2707&theme=cobalt&utcOffset=5.5" />
 
 </div>
 
 ---
 
-### `$ ./snake --animate`
+### 👾 `./snake --animate`
 
 <div align="center">
 
@@ -232,7 +234,7 @@ Currently **0 years of professional experience** — actively seeking my first r
 
 ---
 
-### `$ cat current-focus.yaml`
+### 🎮 `cat current_quest.yaml`
 
 ```yaml
 learning: "Prompt Engineering"
@@ -243,16 +245,16 @@ open_to: "Internships, Entry-Level Software/AI-ML Roles"
 
 ---
 
-### `$ ./connect --all`
+### 🕹️ `./connect --all`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB000?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/shivada-manoj-p-082274339/)
-[![Email](https://img.shields.io/badge/Email-FFB000?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:shivadamanoj0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FFB000?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/shivada-2707)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0D0221)](https://www.linkedin.com/in/shivada-manoj-p-082274339/)
+[![Email](https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=0D0221)](mailto:shivadamanoj0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=0D0221)](https://github.com/shivada-2707)
 
 *"Building practical solutions at the intersection of Python and AI."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,100:0D0221&height=100&section=footer" width="100%"/>
 
 </div>
